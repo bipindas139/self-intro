@@ -2,50 +2,9 @@
 
 
 # self-intro
-Hi! My name is "rijin"
 
-
-I am pursuing Btech degree in  Electronics and Communication
-Intrested in coding
-..........
-..........
-Hi! My name is "HRIDYA "
-I am pursuing Btech degree in  Electronics and Communication
-Intrested in coding, singing
-..........
-# self-intro 1
-Hi! My name is "Mahima KV"
-I am pursuing Btech degpramodaree in Electrical and Electronics
-Intrested in coding
-inside div in INDEX.html add :
-Hi! My name is "SAYOOJ S"
-I am persuing Btech degree in ELECTRONICS AND COMMUNICATION
-Intrested in coding
-
-# self_introduction 2
-Hi! My name is "SAYOOJ S"
-I am Currently persuing Btech degree in Electronic and Telecommunication
-Hi! My name is "Priyamvada Prakash"
-I am Currently persuing Btech degree in ElectronicS and Communication Engineering
-Intrested in Coding and to learn new programming languages
-
-# self-intro
-Hi! My name is "Aadith Sunil"
-I am pursuing Btech degree in  Computer science and engineering
-Intrested in coding
-...................
-
-
-
-# self-intro
-Hi! My name is "Arathy Balakrishnan"
-I am pursuing Btech degree in  Electrical and electronic
-Intrested in coding
-
-VISHNU P
-
-# self-intro 
-Hi! My name is "Bipindas"
-I am pursuing Btech degpramodaree in ElectronicS and Communication Engineering
-Intrested in coding
-
+Electronics & Communication Engineer with hands-on experience in embedded systems, IoT prototyping.
+and industrial automation. Proficient in Arduino, ESP32, sensor integration, C/C++ programming, and real-time
+System troubleshooting. Proven experience in telecom network commissioning over 300+ site integrations and industrial
+Instrumentation: Passionate about field service, on-site problem-solving, and turning around technical challenges.
+Into working solutions. Seeking embedded systems, automation, field service, or R&D engineering roles.
